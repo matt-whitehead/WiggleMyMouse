@@ -6,7 +6,7 @@ This is a simple application that I made as my first attempt at Mac App developm
 Any feedback or suggestions for improvement are appreciated :)
 
 ## Installation
-1. Simply download WiggleMyMouse.app 
+1. Simply download [WiggleMyMouse.app](https://github.com/matt-whitehead/WiggleMyMouse/files/4383712/WiggleMyMouse-0.1-2.zip)
 2. You're done! You can move it to the /Applications folder if you wish, but it isn't necessary. 
 
 ## Usage 
